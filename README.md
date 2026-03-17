@@ -9,7 +9,6 @@
 ---
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheuscanel&show_icons=true&theme=radical"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscanel&layout=compact&theme=radical"/>
 </p>
 
